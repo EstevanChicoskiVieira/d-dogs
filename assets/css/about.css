@@ -1,0 +1,54 @@
+main{
+    width: 100%;
+    height: 100vh;
+    padding-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2{
+    width: 30vw;
+    height: 50vh;
+    background-color: rgb(26, 24, 27);
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.foto{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#foto{
+    border: 1.5px solid green;
+    border-radius: 50%;
+}
+
+.nome{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+
+#nome{
+    font-size: 22pt;
+}
+
+.info{
+    width: 100%;
+    height: 25%;
+}
+
+#info{
+    font-size: 18pt;
+}
+
+.copright{
+    text-align: center;
+}
